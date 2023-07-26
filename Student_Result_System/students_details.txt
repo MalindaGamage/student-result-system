@@ -1,0 +1,36 @@
+{
+  "studentID" : 24,
+  "name" : "Belly",
+  "age" : 25
+}
+
+{
+  "studentID" : 25,
+  "name" : "Sam",
+  "age" : 24
+}
+{
+  "studentID" : 26,
+  "name" : "Jammy",
+  "age" : 26
+}
+{
+  "studentID" : 27,
+  "name" : "Gamage",
+  "age" : 26
+}
+{
+  "studentID" : 28,
+  "name" : "Kasun",
+  "age" : 25
+}
+{
+  "studentID" : 33,
+  "name" : "Pushpakumara",
+  "age" : 25
+}
+{
+  "studentID" : 34,
+  "name" : "Jagath",
+  "age" : 25
+}
